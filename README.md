@@ -1,2 +1,1 @@
-# hello-world
-Just anoher repository
+System.out.println("Hello world");
